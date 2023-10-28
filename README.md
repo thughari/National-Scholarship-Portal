@@ -1,0 +1,2 @@
+Frontend for National Scholarship Portal https://github.com/thughari/NationalScholarshipPortal-FrontEnd
+Backend for National Scholarship Portal https://github.com/thughari/National_Scholarship_Portal_Backend
